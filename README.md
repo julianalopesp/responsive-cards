@@ -6,7 +6,7 @@ Responsive Cards using HTML and CSS.<br />
 <img src="assets/desktop.png" alt="Web Version"/>
 
 ### Mobile Version
-<img src="assets/mobile.png" alt="Mobile Version"/>
+<img src="assets/mobile.png" alt="Mobile Version" width="500"/>
 
 ## 🚀 Starting
 
